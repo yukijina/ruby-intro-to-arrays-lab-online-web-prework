@@ -18,7 +18,10 @@ def last_element(array)
   return array[array.length-1]
 end
 
-def working
+def first_element_with_array_methods
+  return first_element(array)
+end
+
 
 
   
